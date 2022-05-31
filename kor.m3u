@@ -11,3 +11,13 @@ http://1.245.74.5:1935/live/tv/.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ChuncheonMBCTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%B6%98%EC%B2%9C%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1.png/512px-%EC%B6%98%EC%B2%9C%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1.png" group-title="Undefined",춘천MBC (MBC Chuncheon) (1080p) [Not 24/7]
 https://stream.chmbc.co.kr/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="South Korea(한국어)", EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="South Korea(한국어)", EBSi
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title="South Korea(한국어)",  EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/kq2wSR9.png" group-title="South Korea(한국어)", EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="South Korea(한국어)", K+
+http://210.210.155.35/uq2663/h/h08/index2.m3u8
