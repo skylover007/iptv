@@ -18,10 +18,10 @@ http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" ,채널A (540p)
 http://51.81.66.195:1935/krtv/channela_540/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=https://static.iptv-epg.com/kr/Mnet.kr.png group-title="한국", MNet (540p)
+#EXTINF:-1 tvg-logo=https://static.iptv-epg.com/kr/Mnet.kr.png group-title="한국",MNet (576p)
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국", ARIRANG (540p)
+#EXTINF:-1 group-title="한국",ARIRANG (540p)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1,MBC News
@@ -48,18 +48,18 @@ http://221.157.125.239:1935/live/psike/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="KR" tvg-language="" tvg-logo="" group-title="Undefined",TJB (SBS大田) (720p)
 http://1.245.74.5:1935/live/tv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="South Korea(한국어)", EBS 2
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="South Korea(한국어)",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="South Korea(한국어)", EBSi
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="South Korea(한국어)",EBSi
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title="South Korea(한국어)",  EBS+ 2
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title="South Korea(한국어)",EBS+ 2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 
-#EXTINF:-1 logo="https://i.imgur.com/kq2wSR9.png" group-title="South Korea(한국어)", EBSe
+#EXTINF:-1 logo="https://i.imgur.com/kq2wSR9.png" group-title="South Korea(한국어)",EBSe
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="South Korea(한국어)", K+
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="South Korea(한국어)",K+
 http://210.210.155.35/uq2663/h/h08/index2.m3u8
 
