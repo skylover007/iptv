@@ -15,6 +15,12 @@ http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" ,JTBC (540p)
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 
+#EXTINF:-1 group-title="한국" tvg-logo="https://static.epg.best/kr/TVN.kr.png" ,TVN (540p)
+http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
+
+#EXTINF:-1 group-title="한국" tvg-logo="https://static.epg.best/kr/YTN.kr.png" ,YTN (540p)
+http://51.81.66.195:1935/krtv/ytn_540/playlist.m3u8
+
 #EXTINF:-1 group-title="한국" tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" ,채널A (540p)
 http://51.81.66.195:1935/krtv/channela_540/playlist.m3u8
 
@@ -25,10 +31,10 @@ http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="한국",MBC (YouTube) (1080p)
-https://ytb.52sf.ga/live.m3u8?c=28
+https://ytb.52sf.ga/jmsytb.m3u8?c=24
 
 #EXTINF:-1 group-title="한국",KBS KOREA (YouTube) (1080P)
-https://ytb.52sf.ga/live.m3u8?c=29
+https://ytb.52sf.ga/jmsytb.m3u8?c=25
 
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="한국",KBS WORLD (576p)
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
