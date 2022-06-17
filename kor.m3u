@@ -1,67 +1,79 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml"
 
-#EXTINF:-1 group-title="한국" tvg-id="KBS1TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_1_logo.png",KBS1 (540p)
+#EXTINF:-1 group-title="지상파" tvg-id="KBS1TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_1_logo.png",KBS1 (540p)
 http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="KBS2TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_2_logo.png",KBS2 (540p)
+#EXTINF:-1 group-title="지상파" tvg-id="KBS2TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_2_logo.png",KBS2 (540p)
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png" ,MBC (540p)
+#EXTINF:-1 group-title="지상파" tvg-id="MBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png" ,MBC (540p)
 http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
 
-#EXTINF:-1  group-title="한국" tvg-id="MBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png",MBC (1080p)
+#EXTINF:-1  group-title="지상파" tvg-id="MBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png",MBC (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/sbs_logo.png" ,SBS (540p)
+#EXTINF:-1 group-title="지상파" tvg-id="SBSTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/sbs_logo.png" ,SBS (540p)
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/jtbc_logo.png" ,JTBC (540p)
+#EXTINF:-1 group-title="종합편성" tvg-id="JTBC.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/jtbc_logo.png" ,JTBC (540p)
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/tvn_logo.png" ,TVN (540p)
-http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
-
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ytn_logo.png" ,YTN (540p)
-http://51.81.66.195:1935/krtv/ytn_540/playlist.m3u8
-
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/channel_a_logo.png" ,채널A (540p)
+#EXTINF:-1 group-title="종합편성" tvg-id="ChannelA.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/channel_a_logo.png" ,채널A (540p)
 http://51.81.66.195:1935/krtv/channela_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/tv_chosun_logo.png" ,TV CHOSUN (540p)
+#EXTINF:-1 group-title="종합편성" tvg-id="TVChosun.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/tv_chosun_logo.png" ,TV CHOSUN (540p)
 http://51.81.66.195:1935/krtv/tvchosun_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mnet_logo.png" ,MNet (576p)
+#EXTINF:-1 group-title="종합편성" tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/3iVioxQ.png" ,MBN (540p)
+http://51.81.66.195:1935/krtv/mbn_540/playlist.m3u8
+
+#EXTINF:-1 group-title="뉴스/재테크" tvg-id="YTN.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ytn_logo.png" ,YTN (540p)
+http://51.81.66.195:1935/krtv/ytn_540/playlist.m3u8
+
+#EXTINF:-1 group-title="음악/오락" tvg-id="tvN.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/tvn_logo.png" ,tvN (540p)
+http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
+
+#EXTINF:-1 group-title="음악/오락" tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" ,KBS JOY (576p)
+http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
+
+#EXTINF:-1 group-title="음악/오락" tvg-id="Mnet.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mnet_logo.png" ,Mnet (576p)
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/arirang_logo.png" ,ARIRANG KOREA (720p)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="음악/오락" tvg-id="MBCOn.kr" tvg-logo="" ,MBC ON (540p)
+http://51.81.66.195:1935/krtv/mbc_on_540/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png" ,MBC NEWS (YouTube) (1080p)
+#EXTINF:-1 group-title="영화" tvg-id="OCN.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mnet_logo.png" ,OCN (576p)
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+
+#EXTINF:-1 group-title="지상파" tvg-id="EBS1.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/EBS_1TV_Logo.png" ,EBS 1 (400p)
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+
+#EXTINF:-1 group-title="지상파" tvg-id="EBS2TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/EBS_2_logo.png" ,EBS 2 (400p)
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="케이블" tvg-id="EBSPlus1.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ebs_plus_1_logo.png" ,EBS+1 (400p)
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="케이블" tvg-id="EBSPlus2.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ebs_plus_2_logo.png" ,EBS+2 (400p)
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="케이블" tvg-id="EBSEnglish.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ebs_english_logo.png",EBSe (400p)
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="케이블" tvg-id="EBSKIDS.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ebs_kids_logo.png" ,EBS KIDS (360p)
+@ -81,88 +49,26 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+
+#EXTINF:-1 group-title="유튜브" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png" ,MBC NEWS (YouTube) (1080p)
 https://ytb.52sf.ga/jmsytb.m3u8?c=24
 
 #EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_korea_logo.png" ,KBS KOREA (YouTube) (1080P)
 https://ytb.52sf.ga/jmsytb.m3u8?c=25
 
-#EXTINF:-1 group-title="한국" tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-country="KR" tvg-language="Korean" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_world_logo.png" ,KBS WORLD (576p)
+#EXTINF:-1 group-title="기타" tvg-id="KBSWorld.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_world_logo.png" ,KBS WORLD (576p)
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-id="EBS1.kr" tvg-name="EBS 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/EBS_1TV_Logo.png" ,EBS 1 (400p)
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+#EXTINF:-1 group-title="기타" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/arirang_logo.png" ,ARIRANG KOREA (720p)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/EBS_2_logo.png" ,EBS 2 (400p)
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 group-title="한국" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ebs_plus_1_logo.png" ,EBS+1 (400p)
-http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-
-#EXTINF:-1 group-title="한국" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ebs_plus_2_logo.png" ,EBS+2 (400p)
-http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
-
-#EXTINF:-1 group-title="한국" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ebs_english_logo.png",EBSe (400p)
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 group-title="한국" tvg-id="EBSKIDS.kr" tvg-name="EBS KIDS" tvg-country="KR" tvg-language="Korean" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/ebs_kids_logo.png" ,EBS KIDS (360p)
-@ -81,88 +49,26 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-
-#EXTINF:-1 group-title="한국" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/k_plus_logo.png" ,K+ (576p)
+#EXTINF:-1 group-title="기타" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/k_plus_logo.png" ,K+ (576p)
 http://210.210.155.35/uq2663/h/h08/index2.m3u8
