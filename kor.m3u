@@ -66,7 +66,7 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="유튜브" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png" ,MBC NEWS (YouTube) (1080p)
 https://ytb.52sf.ga/jmsytb.m3u8?c=24
 
-#EXTINF:-1 group-title="한국" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_korea_logo.png" ,KBS KOREA (YouTube) (1080P)
+#EXTINF:-1 group-title="유튜브" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_korea_logo.png" ,KBS KOREA (YouTube) (1080P)
 https://ytb.52sf.ga/jmsytb.m3u8?c=25
 
 #EXTINF:-1 group-title="기타" tvg-id="KBSWorld.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_world_logo.png" ,KBS WORLD (576p)
