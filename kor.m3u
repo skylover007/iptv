@@ -1,16 +1,30 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml"
 
-#EXTINF:-1 group-title="지상파" tvg-id="KBS1TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_1_logo.png",KBS1 (540p)
-http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+#EXTINF:-1 group-title="지상파" tvg-id="KBS1TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/kbs_1_logo.png",KBS1 (720p)
+https://1tvhd.gscdn.kbs.co.kr/1tv-01/1tv-01_hd.m3u8?Expires=1663382774&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAxLzF0di0wMV9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYzMzgyNzc0fX19XX0_&Signature=KsbSQ4wFi65tQ3f76KBmNK2k7Dwoo~-QJ6c~dc9Izw~WRXkaQd4j13-4UJM2YxfbZWdIbG43TfUpZnXgpDzlVBdyc5vDTpe3wDyujDTvxH3OR6gKJxZVk04pYnwux~goQZbxYJecRaphy1HkCv97ZfuIQlkjqPjTjoGEnc6gSiozACDlbNiAhg7oJbAOWBLWOAyBOTVZJyMjdXaM992yc3vCFCMw0O7A6qKegbGP5DRl6XbTgZrCif0nJsFfKWXg8AhqihzHlZQqj26Hr14I5am3rgG0UdCfkJHAwqQDSdtYNGxGZKz7~Vtz-XSFJlaIfwPWbteDkChDX1DtsW4z9w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
-#EXTINF:-1 group-title="지상파" tvg-id="KBS2TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/kbs_2_logo.png",KBS2 (540p)
-http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+#EXTINF:-1 group-title="지상파" tvg-id="KBS2TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/kbs_2_logo.png",KBS2 (720p)
+https://2tvhd.gscdn.kbs.co.kr/2tv-01/2tv-01_hd.m3u8?Expires=1663382909&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHZoZC5nc2Nkbi5rYnMuY28ua3IvMnR2LTAxLzJ0di0wMV9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYzMzgyOTA5fX19XX0_&Signature=g6xIRsyg7ysljF042j7ufMQj-iTeSJc07YkKMsSqM9Anh7u2C-rQIIEemxgi9pYUrOtSnCb48mbq1IuvUvRUKycF8wuZhmqP7D0qW1lpb3JVVNK5fIaujJboYD1e8Kg0jPk8tdMuDbTr7-VMwMcQXBe5evibaV1twQcfIT6Bsj2aHs1uDIj2rre59-yph1Gknkehk2z1P0nZlXfKrCt~dY0yDOvRGNAp2XIcxx3uoWNR9UY06X~1zne52lla~7P7XxrGrMEzLKbtyui4Uh8zUjFQdSEqGhrBtDLILOobOHfgnjm2NuMZLgKUZHYB8~RUcVeHJrPjFwxBeki0iMLgKA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
-#EXTINF:-1 group-title="지상파" tvg-id="MBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png" ,MBC (540p)
-http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
-
-#EXTINF:-1  group-title="지상파" tvg-id="MBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/mbc_logo.png",MBC (1080p)
+#EXTINF:-1  group-title="지상파" tvg-id="MBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/mbc_logo.png",MBC (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="지상파" tvg-id="DaeguMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/daegu_mbc_logo.png" ,대구MBC (480p)
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+
+#EXTINF:-1 group-title="지상파" tvg-id="BusanMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/busan_mbc_logo.png" ,부산MBC (360p)
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+
+#EXTINF:-1 group-title="지상파" tvg-id="GwangjuMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/gwangju_mbc_logo.png" ,광주MBC (xxxp)
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="지상파" tvg-id="DaejeonMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/daejeon_mbc_logo.png" ,대전MBC (720p)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="지상파" tvg-id="DaejeonMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/daejeon_mbc_logo.png" ,대전MBC (720p)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="지상파" tvg-id="SBSTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/img/iptv_logo/sbs_logo.png" ,SBS (540p)
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
