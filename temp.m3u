@@ -1,12 +1,85 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml"
 
-#EXTINF:-1 group-title="" tvg-id="JTBC.kr" tvg-logo="https://i.imgur.com/fCruRmS.png",JTBC (1080p)
-https://allanf181.github.io/adaptive-streams/streams/kr/JTBC.m3u8
+#EXTINF:-1 group-title="" tvg-id="BusanMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/busan_mbc_tv.png",부산MBC (360p)
+http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="SBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS (1080p)
-http://183.99.22.189:9981/stream/channelid/1124346476
-http://222.109.117.27:9981/stream/channelid/2096368258
-https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
+#EXTINF:-1 group-title="" tvg-id="ArirangTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/arirang_tv.png",Arirang TV (720p)
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN (1080p)
-https://allanf181.github.io/adaptive-streams/streams/kr/tvN.m3u8
+#EXTINF:-1 group-title="" tvg-id="ChannelA.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/channel_a.png",채널A (720p)
+http://han.ddkdxmkj.com/api/han123.php?id=15
+
+#EXTINF:-1 group-title="" tvg-id="ChuncheonMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/chuncheon_mbc_tv.png",춘천MBC (480p)
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="ChungbukMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/chungbuk_mbc_tv.png",충북MBC (720p)
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="CJBTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/cjb_tv.png",CJB(청주SBS) (540p)
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="CJOnStyle.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/cj_onstyle.png",CJ온스타일 (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="CJOnStylePlus.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/cj_onstyleplus.png",CJ온스타일+ (540p)
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="DaeguMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/daegu_mbc.png",대구MBC (480p)
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="DaejeonMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/daejeon_mbc.png",대전MBC (720p)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="EBS1TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/EBS_1TV.png",EBS 1TV (400p)
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
