@@ -40,46 +40,40 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+#EXTINF:-1 group-title="" tvg-id="JTBC.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/jtbc.png",JTBC (400p)
+https://apichvod19.seezntv.com/OTM/10010_L.m3u8?SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 
+#EXTINF:-1 group-title="" tvg-id="tvN.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/tvN.png",tvN (400p)
+https://apichvod19.seezntv.com/OTM/10050_L.m3u8?SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+#EXTINF:-1 group-title="" tvg-id="Mnet.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/Mnet.png",Mnet (400p)
+https://apichvod19.seezntv.com/OTM/10150_L.m3u8?SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 
+#EXTINF:-1 group-title="" tvg-id="OCN.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/OCN.png",OCN (400p)
+https://apichvod19.seezntv.com/OTM/10950_L.m3u8?SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+#EXTINF:-1 group-title="" tvg-id="MBN.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/mbn.png",MBN (480p)
+http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2MzI5Nzg1Nn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=ztpkfoTLTtZrlknwLM7tmE8ff~BowARHDDC7mckat-k8KDSe1arn6axdTD7U2FCcxwr53gLt22xB7KiWhwwFhoGLASvlAw5kF7~z4mryldJycTpK0fTi4zqbqMqGKyB4dNHVnDgoiNAYOSPXChHInWpckuU018h3AJWChUMi39g_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 
+#EXTINF:-1 group-title="" tvg-id="YTN.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/YTN.png",YTN (1080p)
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss1097/UiOA18Efu6NcFEK2hm1boh38Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/playlist.m3u8?hdnts=st=1663661370~exp=1663693780~acl=*/UiOA18Efu6NcFEK2hm1boh38Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/*~hmac=0b2c9d2ed1ff3f977d972539e440d3e0ab19f1417239412d33d0ee8c714407b7
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+#EXTINF:-1 group-title="" tvg-id="YonhapNewsTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/yonhap_news_tv.png",연합뉴스TV (1080p)
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss1200/UiOA18Efu6BaFEK2gWhbrh75Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/playlist.m3u8?hdnts=st=1663661422~exp=1663693832~acl=*/UiOA18Efu6BaFEK2gWhbrh75Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/*~hmac=8831aaac31c45ee5a6a2cd39efe97d514b990c498655c3ffd11266c7b38a01f8
 
+#EXTINF:-1 group-title="" tvg-id="KBS1TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/KBS1.png",KBS 1TV (720p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+#EXTINF:-1 group-title="" tvg-id="KBS2TV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/KBS_2TV.png",KBS 2TV (720p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 
+#EXTINF:-1 group-title="" tvg-id="TJBTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/TJB.png",SBS TJB (TBC 대전방송) (1080p)
+http://1.245.74.5:1935/live/tv/.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
+#EXTINF:-1 group-title="" tvg-id="TBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/TBC.png",SBS TBC (TBC 대구방송) (540p)
+http://221.157.125.239:1935/live/psike/playlist.m3u8
 
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
-
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
-
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
-
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
-
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
-
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
-
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
-
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
-
+#EXTINF:-1 group-title="" tvg-id="UlsanMBCTV.kr" tvg-logo="https://cdn.jsdelivr.net/gh/skylover007/ImageHosting/iptv_logo/UBC.png",SBS UBC (UBC 울산방송) (540p)
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="",XXX (p)
